@@ -1,1 +1,1 @@
-https://nbviewer.org/github/angolechka/projects-Yandex.Practicum/blob/caa1064156d9dfe39be8a9e3e6b64ac6c650cf32/4.%20Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении/4.%20Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении.ipynb
+https://nbviewer.org/github/angolechka/projects-Yandex.Practicum/blob/78b41a749b6c00eac2b865e36f1bedcc9141edf6/4.%20Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении/4.%20Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении.ipynb
