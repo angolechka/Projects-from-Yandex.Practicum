@@ -1,0 +1,1 @@
+https://nbviewer.org/github/angolechka/projects-Yandex.Practicum/blob/a27b78c68fa7c2e09c10d0199f8cabc8bea9a9d7/8.%20Исследование%20рынка%20компьютерных%20игр/8.%20Исследование%20рынка%20компьютерных%20игр.ipynb
