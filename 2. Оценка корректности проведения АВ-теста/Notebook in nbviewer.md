@@ -1,0 +1,1 @@
+https://nbviewer.org/github/angolechka/projects-Yandex.Practicum/blob/d724a2f24619bcbcc3e298eaa2640c94fca2ace3/2.%20Оценка%20корректности%20проведения%20АВ-теста/2.%20Оценка%20корректности%20проведения%20АВ-теста.ipynb
