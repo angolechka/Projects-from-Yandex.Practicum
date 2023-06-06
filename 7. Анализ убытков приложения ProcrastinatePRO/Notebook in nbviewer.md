@@ -1,0 +1,1 @@
+https://nbviewer.org/github/angolechka/projects-Yandex.Practicum/blob/a3a54d08dc5cd2ed8abed81ac148d5224137df5c/7.%20Анализ%20убытков%20приложения%20ProcrastinatePRO/7.%20Анализ%20убытков%20приложения%20ProcrastinatePRO_.ipynb
